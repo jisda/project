@@ -1,3 +1,6 @@
+#あとはfor文で100回コサイン類似度による画像比較し、すべてのデータまとめて
+#jsonの型で返すようにする感じでいいのですか？
+#骨組み的にはこんな感じです
 require 'json'
 require '画像百枚(json) = hundred'
 require 'ユーザー理想(json) = perfectwomen'
