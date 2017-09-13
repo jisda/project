@@ -1,4 +1,4 @@
-require 'json'
+require 'json' 
 require ' hundred'      #画像百枚(json) 
 require ' perfectwomen' #ユーザー理想(json)
 
